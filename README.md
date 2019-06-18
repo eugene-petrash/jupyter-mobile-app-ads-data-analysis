@@ -1,1 +1,1 @@
-# jupyter-mobile-app-ads-data-analys-
+# jupyter-mobile-app-ads-data-analys
